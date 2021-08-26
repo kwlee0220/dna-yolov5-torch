@@ -1,0 +1,3 @@
+include dna_yolov5_torch/data/*.yaml
+include dna_yolov5_torch/models/*.yaml
+include dna_yolov5_torch/models/hub/*.yaml
