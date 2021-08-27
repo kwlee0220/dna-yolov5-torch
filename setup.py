@@ -9,7 +9,6 @@ setup(
     url = 'https://github.com/kwlee0220/dna-yolov5-torch',
     install_requires = [
         'opencv-python',
-        'opencv-contrib-python',
         'pandas',
         'matplotlib',
         'seaborn',
